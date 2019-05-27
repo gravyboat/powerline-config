@@ -37,6 +37,7 @@
 	"gitstatus_branch_clean":  { "fg": "solarized:green", "bg": "solarized:base02", "attrs": [] },
 	"gitstatus_branch_dirty":  { "fg": "solarized:base1", "bg": "solarized:base02", "attrs": [] },
 	"gitstatus_branch_detached": { "fg": "solarized:magenta", "bg": "solarized:base02", "attrs": [] },
+	"gitstatus_tag":           { "fg": "solarized:base2", "bg": "solarized:base02", "attrs": [] },
 	"gitstatus_behind":        { "fg": "solarized:base2", "bg": "solarized:base02", "attrs": [] },
 	"gitstatus_ahead":         { "fg": "solarized:base2", "bg": "solarized:base02", "attrs": [] },
 	"gitstatus_staged":        { "fg": "solarized:green", "bg": "solarized:base02", "attrs": [] },
